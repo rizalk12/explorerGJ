@@ -11,7 +11,7 @@ export const $themeConfig = {
   app: {
     appName: '0xarikun', // Will update name in navigation menu (Branding)
     // eslint-disable-next-line global-require
-    appLogoImage: '/logox.svg', // Will update logo in navigation menu (Branding)
+    appLogoImage: '/logo0xarikun.svg', // Will update logo in navigation menu (Branding)
   },
   layout: {
     isRTL: false,
